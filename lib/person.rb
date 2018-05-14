@@ -1,7 +1,7 @@
 class Person
   def Walk
     puts "Hello World!"
-  end 
+  end
   def Talk
     puts "The Person is walking"
   end
